@@ -21,14 +21,14 @@ I build high-impact systems by blending security, software, and machine learning
 
 ## 💼 Experience
 
-**🔐 Point72 Asset Management** — *Technology Intern (InfoSec)*  
+** Point72 Asset Management** — *Technology Intern (InfoSec)*  
 *June 2025 – Aug 2025 | New York, NY*  
 - Built scalable detection logic analyzing 2TB+ daily log data to identify service account privilege misuse  
 - Created security dashboard used by execs during a live incident response  
 - Reverse-engineered endpoint-to-identity mapping to uncover systemic blind spots  
 - Tech: Python, SPL
 
-**💻 New England Community Services (NECS)** — *IT Specialist*  
+** New England Community Services (NECS)** — *IT Specialist*  
 *May 2023 – May 2025 | Brockton, MA*  
 - Led MySQL database deployment (5K+ client records) that drove $5M+ in funding  
 - Boosted case closure rates by 10% using statistical analysis on operational data  
@@ -39,26 +39,26 @@ I build high-impact systems by blending security, software, and machine learning
 
 ## 🛠 Technical Projects
 
-**🛡️ Service Account Detection System**  
+** Service Account Detection System**  
 Real-time anomaly detection on 2TB+/day logs, deployed at Point72 to monitor internal access misuse.  
 - Built in Python/SPL, recognized by CISO for “CTO-level visibility”
 
-**🧠 Fine-Tuned LLaMA 3.2 8B**  
+** Fine-Tuned LLaMA 3.2 8B**  
 Fine-tuned LLaMA-3.2 on NYU HPC using FP16 + LoRA + Slurm parallelism for safe AI experimentation.  
 - Reduced training time by 22%  
 [GitHub](https://github.com/CSCI-GA-2820-SP25-003/orders)
 
-**📦 E-Commerce Order Microservice**  
+** E-Commerce Order Microservice**  
 Production-ready Python Flask service with CI/CD and containerized deployment on OpenShift.  
 - Built in a 5-person agile team  
 [GitHub](https://github.com/CSCI-GA-2820-SP25-003/orders)
 
-**🗳️ Digital Voting Platform (MVP)**  
+** Digital Voting Platform (MVP)**  
 Secure digital voting with facial ID, SSN verification, and U.S.-only access.  
 - Tech: TypeScript, Express, Supabase, TensorFlow  
 [View Repo](https://github.com/coyigbo/digital-voting-platform)
 
-**📡 AI Inference Engine**  
+** AI Inference Engine**  
 Modular backend for real-time model inference using Redis queueing and scalable logic.  
 - Tech: Python, Docker, TensorFlow  
 [View Repo](https://github.com/coyigbo/ai-inference-engine)
@@ -82,12 +82,6 @@ Modular backend for real-time model inference using Redis queueing and scalable 
 ### [Ceeco Corporation](https://github.com/ceecocorp)  
 Founder and Lead Engineer of a multi-sector tech company building tools in fintech, digital ID, healthtech, and productivity.  
 Explore the [Ceeco GitHub](https://github.com/ceecocorp) for more.
-
----
-
-## 📈 GitHub Stats
-
-![Chuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=coyigbo&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
