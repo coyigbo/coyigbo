@@ -46,22 +46,18 @@ Real-time anomaly detection on 2TB+/day logs, deployed at Point72 to monitor int
 ** Fine-Tuned LLaMA 3.2 8B**  
 Fine-tuned LLaMA-3.2 on NYU HPC using FP16 + LoRA + Slurm parallelism for safe AI experimentation.  
 - Reduced training time by 22%  
-[GitHub](https://github.com/CSCI-GA-2820-SP25-003/orders)
 
 ** E-Commerce Order Microservice**  
 Production-ready Python Flask service with CI/CD and containerized deployment on OpenShift.  
 - Built in a 5-person agile team  
-[GitHub](https://github.com/CSCI-GA-2820-SP25-003/orders)
 
 ** Digital Voting Platform (MVP)**  
 Secure digital voting with facial ID, SSN verification, and U.S.-only access.  
 - Tech: TypeScript, Express, Supabase, TensorFlow  
-[View Repo](https://github.com/coyigbo/digital-voting-platform)
 
 ** AI Inference Engine**  
 Modular backend for real-time model inference using Redis queueing and scalable logic.  
 - Tech: Python, Docker, TensorFlow  
-[View Repo](https://github.com/coyigbo/ai-inference-engine)
 
 ---
 
@@ -80,8 +76,7 @@ Modular backend for real-time model inference using Redis queueing and scalable 
 ## 🏢 Organization
 
 ### [Ceeco Corporation](https://github.com/ceecocorp)  
-Founder and Lead Engineer of a multi-sector tech company building tools in fintech, digital ID, healthtech, and productivity.  
-Explore the [Ceeco GitHub](https://github.com/ceecocorp) for more.
+Founder and Lead Engineer of a multi-sector tech company building tools in fintech, digital ID, healthtech, and productivity. 
 
 ---
 
