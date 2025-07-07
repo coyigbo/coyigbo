@@ -45,7 +45,7 @@ Check out the organization profile to see our projects in fintech, digital ID, h
 
 ## 📈 GitHub Stats
 
-![Chuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=coyigbo&show_icons=true&theme=radical)
+![Chuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=coyigbo&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 
