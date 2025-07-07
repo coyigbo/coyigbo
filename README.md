@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I'm Chuma Oyigbo
+# Chuma Oyigbo
 
 Engineer focused on **real-time detection**, **secure distributed systems**, and **scalable AI infrastructure**.  
 I build high-impact systems by blending security, software, and machine learning — and I’m passionate about advancing safe, reliable AI through detection engineering.
@@ -10,12 +10,12 @@ I build high-impact systems by blending security, software, and machine learning
 **New York University (Courant + Stern)**  
 *M.S. in Computing, Entrepreneurship, and Innovation*  
 `09/2024 – 12/2025`  
-🏀 NCAA National Championship Runner-Up • UAA Champion • #4 in school history for 3PT %
+NCAA National Championship Runner-Up • UAA Champion • #4 in school history for 3PT %
 
 **Saint Michael’s College**  
 *B.S. in Computer Science*  
 `08/2020 – 05/2024`  
-💡 Leetcode Global Top 6% • NE-10 Basketball Champion
+Leetcode Global Top 6% • NE-10 Basketball Champion
 
 ---
 
@@ -28,7 +28,7 @@ I build high-impact systems by blending security, software, and machine learning
 - Reverse-engineered endpoint-to-identity mapping to uncover systemic blind spots  
 - Tech: Python, SPL
 
-** New England Community Services (NECS)** — *IT Specialist*  
+** New England Community Services, Inc. ** — *IT Specialist*  
 *May 2023 – May 2025 | Brockton, MA*  
 - Led MySQL database deployment (5K+ client records) that drove $5M+ in funding  
 - Boosted case closure rates by 10% using statistical analysis on operational data  
@@ -86,8 +86,7 @@ Explore the [Ceeco GitHub](https://github.com/ceecocorp) for more.
 ---
 
 ## 📫 Contact
-
-- 📍 Manhattan, NY  
+ 
 - 📧 oyigbochuma@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/chumaoyigbo)
 
