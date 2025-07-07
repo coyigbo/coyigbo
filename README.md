@@ -21,7 +21,7 @@ I build high-impact systems by blending security, software, and machine learning
 
 ## 💼 Experience
 
-** Point72 Asset Management** — *Technology Intern (InfoSec)*  
+** Point72 Asset Management** — *Technology Intern*  
 *June 2025 – Aug 2025 | New York, NY*  
 - Built scalable detection logic analyzing 2TB+ daily log data to identify service account privilege misuse  
 - Created security dashboard used by execs during a live incident response  
