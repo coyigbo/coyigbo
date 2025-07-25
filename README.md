@@ -23,7 +23,7 @@ Welcome — I specialize in building intelligent, high-impact detection systems 
 
 ## 💼 Selected Work
 
-### 🔐 [Service Account Detection System](https://github.com/coyigbo/)  
+### 🔐 [Service Account Detection System]  
 A real-time detection pipeline used in enterprise production — identifies misuse across thousands of service accounts by analyzing Windows, Linux, and CrowdStrike logs.  
 → **Live policy violations confirmed** during CISO demo.  
 → **Now integrated into SOC workflows.**
@@ -41,7 +41,7 @@ Production-ready REST API service using Flask, Docker, CI/CD pipelines (GitHub A
 ## 💼 Professional Snapshot
 
 - 🎓 **M.S. Computing, Entrepreneurship & Innovation @ NYU**  
-- 🔐 **Security Intern @ Point72 (2025)**  
+- 🔐 **Technology Intern @ Point72 (2025)**  
 - 📊 Dashboards adopted by production SOC team — **investigations launched within 24 hours**
 
 ---
