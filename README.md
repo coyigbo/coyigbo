@@ -1,4 +1,4 @@
-# 👋🏾 Chuma Oyigbo  
+# Chuma Oyigbo  
 **Security Engineer | ML Engineer | Detection Systems | LLMs at Scale**
 
 Welcome — I specialize in building intelligent, high-impact detection systems that scale across enterprise infrastructure. My work sits at the intersection of security engineering, machine learning, and distributed systems.
